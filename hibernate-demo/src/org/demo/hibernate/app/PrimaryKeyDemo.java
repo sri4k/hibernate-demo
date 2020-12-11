@@ -18,10 +18,10 @@ public class PrimaryKeyDemo {
 		
 		try {
 		//create 4 student objects
-		Student student1 = new Student("Paul", "Wall", "paul@melluli.com");
-		Student student2 = new Student("John", "Doe", "john@melluli.com");
-		Student student3 = new Student("Mary", "Public", "mary@melluli.com");
-		Student student4 = new Student("Bonita", "Applebum", "bonita@melluli.com");
+		Student student1 = new Student("Paul", "Wall", "paul@gmail.com");
+		Student student2 = new Student("John", "Doe", "john@yahoo.com");
+		Student student3 = new Student("Mary", "Public", "mary@hotmail.com");
+		Student student4 = new Student("Bonita", "Applebum", "bonita@gmail.com");
 		System.out.println("Students created");
 		
 		//start a transaction

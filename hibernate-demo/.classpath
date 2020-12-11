@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="D:/Softwares/Java/Jars/jaxb-api-2.3.0.jar"/>
 	<classpathentry kind="lib" path="D:/Softwares/Java/Jars/jaxb-core-2.3.0.jar"/>
 	<classpathentry kind="lib" path="D:/Softwares/Java/Jars/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Java/Jars/log4j-core-2.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
